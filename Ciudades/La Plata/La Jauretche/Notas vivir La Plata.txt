@@ -1,0 +1,12 @@
+Poner logo y paleta de colores jauretches \
+sacar nombres y poner referencias \
+ampliar por fuera del cuadrado \
+poner recorrido del rondín y tren universitario \
+destacar humanidades \
+referencias plazas (bosque, plaza san martin, plaza moreno) \
+marcar avenidas 7, 12, 1, 60, 49, 51, 53
+barrios
+puntos de interés especificos
+marcar diagonales
+00adef es el cyan
+E2437B el fucsia
